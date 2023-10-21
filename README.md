@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yashkattimani
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Electronics and Communication from National Institute of Technology Karnataka
+- 🌱 I’m currently learning ... Master's in Data Science from George Washington University, Washington DC 
+- 🧑‍🎓 B.Tech in Electronics and Communication from National Institute of Technology Karnataka
 - 💞️ I’m looking to collaborate on ... Data Science Projects
 - 📫 How to reach me ... yash.kattimani5@gmail.com
 
